@@ -38,7 +38,7 @@ case .cancelled,
 
 ## Author
 
-Nocero Beguh
+Nocero Beguhe
 
 [HomePage](https://mobteq.com)
 
