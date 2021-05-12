@@ -38,14 +38,11 @@ case .cancelled,
 
 ## Author
 
-Nocero Beguhey Patson
+Nocero Beguh
 
-[HomePage](http://about.me/Nocero Beguheypatson)
+[HomePage](https://mobteq.com)
 
-<mail.Nocero Beguheypatson@gmail.com>
+<email: me@mobteq.com>
 
 
-## License
-
-GradientSlider is available under the MIT license. See the LICENSE file for more info.
 
