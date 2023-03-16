@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  testingTabBarView
 //
-//  Created by Nocero Beguhe on 02/03/18.
-//  Copyright © 2018 Nocero Beguhe. All rights reserved.
+//  Created by Dung Kim Nguyen on 02/03/18.
+//  Copyright © 2018 Dung Kim Nguyen. All rights reserved.
 //
 
 import UIKit
